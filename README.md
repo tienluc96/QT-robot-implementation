@@ -1,2 +1,2 @@
 # QT-robot-implementation
-intergrate the moduls computer vision and AI on the robot
+intergrate the computer vision and AI modules on the QT robot
